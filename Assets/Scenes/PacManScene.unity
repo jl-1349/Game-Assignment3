@@ -2494,7 +2494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52ed49a1810421049b63883e4f61d335, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  top: {r: 0.9339623, g: 0.18209319, b: 0.9293779, a: 1}
+  top: {r: 0.990566, g: 0.024919821, b: 0.78533894, a: 1}
   bottom: {r: 0.19906248, g: 0.5754717, b: 0.42597583, a: 1}
 --- !u!1 &293557099
 GameObject:
