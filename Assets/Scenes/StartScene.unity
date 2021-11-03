@@ -3052,7 +3052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47becc47b95d35349b68ecae1f54966a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button1: {fileID: 181103211}
 --- !u!82 &2024274949
 AudioSource:
   m_ObjectHideFlags: 0
