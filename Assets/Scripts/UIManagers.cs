@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class UIManagers : MonoBehaviour
 {
-	public Button button1;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,12 +22,7 @@ public class UIManagers : MonoBehaviour
     {
         SceneManager.LoadScene("PacManScene");
         
-    }
-
-    public void QuitGame()
-    {
-        UnityEditor.EditorApplication.isPlaying = false;
-    }
+     }
 
     public void backStartScene()
     {
