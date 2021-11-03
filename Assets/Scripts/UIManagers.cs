@@ -22,7 +22,6 @@ public class UIManagers : MonoBehaviour
         SceneManager.LoadScene("PacManScene");
         
     }
-
     public void backStartScene()
     {
         SceneManager.LoadScene("StartScene");
